@@ -1,0 +1,14 @@
+.filter{
+    button{
+    font-size: calc($font2*.7) !important;
+    }
+    a{
+        @extend button
+    }
+}
+
+.dropdown{
+    ul{
+        transition: 1s;
+    }
+}

@@ -1,0 +1,22 @@
+//Variables
+$color1: #5fad56ff; //mantis (verde claro)
+$color2: #254d32ff; //cal-poly-green (verde oscuro
+$color3: #181d27ff; //raisin-black (negro)
+$color4: #fffdedff; //ivory (blanco)
+$color5: #a4ada5; // (gris- verdoso)
+$font1: Roboto;
+$font2: 20px;
+
+body{
+    font-family: $font1;
+}
+
+@import "header";
+@import "filters";
+@import "cards";
+@import "form";
+@import "tablaPanol";
+@import "carousel";
+@import "footer";
+@import "gototop";
+@import "breadcrumb"
