@@ -14,7 +14,7 @@ body {
   padding: 5px;
   font-style: italic;
   text-align: center;
-  font-size: 12px !important;
+  font-size: 14px !important;
 }
 
 nav .logo {
@@ -55,7 +55,7 @@ h1 {
 }
 
 .filter button, .filter a {
-  font-size: 12px !important;
+  font-size: 14px !important;
 }
 .dropdown ul {
   transition: 1s;
@@ -73,18 +73,18 @@ h1 {
   font-size: 16px;
 }
 .product-list .card-text {
-  font-size: 12px;
+  font-size: 14px;
 }
 .product-list span {
   font-size: 14px;
 }
 
 input, select, textarea {
-  font-size: 12px !important;
+  font-size: 14px !important;
 }
 
 .table {
-  font-size: 12px;
+  font-size: 14px;
 }
 .table .fotoTabla {
   height: auto;
@@ -100,7 +100,7 @@ footer {
   margin-top: 10px;
   background-color: #5fad56;
   height: 80px;
-  font-size: 10px;
+  font-size: 12px;
   text-align: center;
   padding: 20px;
 }
@@ -136,7 +136,7 @@ footer .redes a:hover {
 
 .breadcrumb {
   margin: 5px;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 /*# sourceMappingURL=estilos.css.map */
